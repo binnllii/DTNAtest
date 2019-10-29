@@ -1,0 +1,16 @@
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, World");
+	System.out.println("whats up");
+	System.out.println("taco tuesday");
+<<<<<<< HEAD
+	System.out.println("12345");
+=======
+	System.out.println("123");
+>>>>>>> newBranch
+    }
+
+}
+
